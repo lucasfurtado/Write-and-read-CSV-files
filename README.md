@@ -12,3 +12,5 @@ For exemple:
   -output: tv,1802.97
   -output: game,65
   -output: video game,800
+
+ps: the solution is in the master branch and you need to change the directory path in order to test in your local repository
