@@ -2,7 +2,7 @@
 
 I made a script that write itens in a generic buy order. You need insert 3 values of buy itens witch the itens are name, value and quantity in that order separed by comma (like an ordinary csv file).
 
-And then the script reads the previous file and creates a new one that cointains the name of the item and the total value of the order (separeted by comma).
+And then the script reads the previous file and creates a new one that contains the name of the item and the total value of the order (separeted by comma).
 
 For exemple:
   -input: tv,600.99,3
