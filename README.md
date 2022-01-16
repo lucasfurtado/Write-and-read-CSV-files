@@ -10,7 +10,7 @@ For exemple:
   -input: video game,400,2
   
   -output: tv,1802.97
-  -output: game,65
+  -output: game,300
   -output: video game,800
 
 ps: the solution is in the master branch and you need to change the directory path in order to test in your local repository
